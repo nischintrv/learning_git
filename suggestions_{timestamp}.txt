@@ -1,0 +1,22 @@
+**Delays:**
+
+1. **Analyze Days_Taken:** Identify the top 3-5 invoices with delays exceeding 5 days (pending or processed). This will help pinpoint problematic areas.
+	* Investigate INV_044 (2769.84), INV_053 (2490.34) and INV_054 (3056.32) as potential candidates.
+2. **Improve Processing Efficiency:** Review the workflow and streamline it to reduce processing time for each invoice.
+3. **Automate Notifications:** Set up automated email notifications for both assignees and approvers when an invoice is pending or overdue, ensuring timely follow-up.
+
+**Workload:**
+
+1. **Balance Workload Distribution:** Analyze invoices assigned to each account (acctnt_1 to acctnt_6) and redistribute them to maintain a balanced workload.
+	* Assign more invoices to underutilized accounts like acctnt_2 and acctnt_3.
+	* Reassign tasks from overloaded accounts, such as acctnt_1 and acctnt_4.
+2. **Monitor Progress:** Regularly track the progress of each assignee and adjust their workload accordingly.
+3. **Provide Training or Support:** Offer training or support to employees who are struggling with their assigned workload or need assistance in managing their tasks.
+
+**Actionable Steps:**
+
+1. Implement a workflow automation tool to streamline processing and reduce manual intervention.
+2. Establish clear goals, deadlines, and expectations for each assignee to ensure they understand the importance of meeting targets.
+3. Schedule regular team meetings to discuss progress, address challenges, and make adjustments as needed.
+
+By implementing these improvements, you can minimize delays and ensure a more even distribution of workload among assigned employees.

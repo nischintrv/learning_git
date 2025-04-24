@@ -1,0 +1,24 @@
+**Improvement Suggestions**
+
+### Delays: Days_Taken > 5 days
+
+1. **Identify delayed invoices**: Look for invoices with `Days_Taken > 5`. Specific examples:
+	* INV_045 (1032.71) has been pending for more than 5 days.
+	* INV_047 (4277.66) has been processed but still shows a delay of more than 5 days.
+2. **Communicate with assigned personnel**: Reach out to `acctnt_1` and other personnel who have delayed invoices to understand the reasons behind the delays.
+3. **Prioritize timely processing**: Ensure that all employees are aware of the importance of meeting deadlines and take necessary steps to reduce delay times.
+
+### Workload: Uneven distribution among Assigned_To
+
+1. **Analyze workload distribution**:
+	* `acctnt_1` has been assigned to 7 invoices (INV_007, INV_011, INV_012, INV_023, INV_034, INV_045, and INV_047).
+	* `acctnt_2` has been assigned to only 4 invoices (INV_019, INV_024, INV_033, and INV_043).
+2. **Redistribute workload**:
+	* Consider reassigning some of the high-priority or time-sensitive tasks from `acctnt_1` to other team members.
+	* Ensure that each employee has a manageable workload and provide training or support if needed.
+
+### Actionable Steps
+
+* Schedule regular meetings with assigned personnel to discuss progress, address delays, and redistribute workloads as needed.
+* Implement a system for tracking deadlines and sending reminders to ensure timely completion of tasks.
+* Monitor the workflow and adjust processes to prevent uneven distribution of workload in the future.
